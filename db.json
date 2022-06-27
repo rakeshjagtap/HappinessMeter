@@ -1,0 +1,144 @@
+{
+  "happinessmeters": [
+    {
+      "id": 1,
+      "day": "Tuesday",
+      "date": "15-Jun-2022",
+      "user": "Mohan",
+      "happiness_score": 10,
+      "event": "Sushil dada's visit",
+      "highlight": "dinner",
+      "lowlight": ""
+    },
+    {
+      "id": 2,
+      "day": "Wednesday",
+      "date": "16-Jun-2022",
+      "user": "Mohan",
+      "happiness_score": 2,
+      "event": "Interview result",
+      "highlight": "",
+      "lowlight": "negative feedback"
+    },
+    {
+      "id": 3,
+      "day": "Thursday",
+      "date": "17-June-2022",
+      "user": "Niket",
+      "happiness_score": 6,
+      "event": "Trek to Singhgad fort",
+      "highlight": "All friends are together",
+      "lowlight": ""
+    },
+    {
+      "id": 4,
+      "day": "Friday",
+      "date": "18-Jun-2022",
+      "user": "Niket",
+      "happiness_score": 9,
+      "event": "Surabhi's stay with me",
+      "highlight": "Masti",
+      "lowlight": ""
+    },
+    {
+      "id": 5,
+      "day": "Saturday",
+      "date": "19-June-2022",
+      "user": "Rakesh",
+      "happiness_score": 10,
+      "event": "Sushil dada's visit",
+      "highlight": "dinner",
+      "lowlight": ""
+    },
+    {
+      "id": 6,
+      "day": "Sunday",
+      "date": "20-Jun-2022",
+      "user": "Rakesh",
+      "happiness_score": 2,
+      "event": "Interview result",
+      "highlight": "",
+      "lowlight": "negative feedback"
+    },
+    {
+      "id": 7,
+      "day": "Monday",
+      "date": "21-June-2022",
+      "user": "Devangi",
+      "happiness_score": 6,
+      "event": "Trek to Singhgad fort",
+      "highlight": "All friends are together",
+      "lowlight": ""
+    },
+    {
+      "id": 8,
+      "day": "Tuesday",
+      "date": "22-Jun-2022",
+      "user": "Devangi",
+      "happiness_score": 9,
+      "event": "Surabhi's stay with me",
+      "highlight": "Masti",
+      "lowlight": ""
+    },
+    {
+      "id": 9,
+      "day": "Wednesday",
+      "date": "23-June-2022",
+      "user": "Bhai",
+      "happiness_score": 10,
+      "event": "Park Cycling",
+      "highlight": "dinner",
+      "lowlight": ""
+    },
+    {
+      "id": 10,
+      "day": "Thursday",
+      "date": "24-Jun-2022",
+      "user": "Bhai",
+      "happiness_score": 8,
+      "event": "",
+      "highlight": "Positivie feedback",
+      "lowlight": ""
+    },
+    {
+      "id": 11,
+      "day": "Thursday",
+      "date": "25-June-2022",
+      "user": "Devangi",
+      "happiness_score": 7,
+      "event": "Trek to Rajghad fort",
+      "highlight": "All friends are together",
+      "lowlight": ""
+    },
+    {
+      "id": 12,
+      "day": "Wednesday",
+      "date": "26-Jun-2022",
+      "user": "Devangi",
+      "happiness_score": 9,
+      "event": "Surabhi's stay with me",
+      "highlight": "majja",
+      "lowlight": ""
+    },
+    {
+      "id": 14,
+      "day": "Saturday",
+      "date": "19-June-2022",
+      "user": "Sushil",
+      "happiness_score": 10,
+      "event": "Sushil dada's visit",
+      "highlight": "dinner",
+      "lowlight": ""
+    },
+    {
+      "id": 15,
+      "day": "Sunday",
+      "date": "20-Jun-2022",
+      "user": "Rakesh",
+      "happiness_score": 2,
+      "event": "",
+      "highlight": "",
+      "lowlight": "negative feedback"
+    }
+  ]
+}
